@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://my-gallery-page-devchallenges-io.vercel.app/">
+    <a href="https://my-gallery-page-challenge.vercel.app">
       Demo
     </a>
     <span> | </span>
